@@ -1,0 +1,16 @@
+body{
+   font-family:Arial, sans-serif;
+   text-align:center;
+   padding:20px;
+}
+#weatherDisplay{
+
+    margin-top: 20px;
+
+    
+}
+
+input{
+    height:20px;
+    border:2px solid rgb(0, 0, 0);
+}
